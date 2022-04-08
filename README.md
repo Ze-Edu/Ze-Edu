@@ -3,8 +3,8 @@
 - 🌱 atualmente estudando a linguagem c# e banco de dados...
 - <div>
   <a href="https://github.com/Ze-Edu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ze-Edu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-Edu&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Ze-Edu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-Edu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <div style="display: inline_block"><br>
