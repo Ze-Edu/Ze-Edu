@@ -1,6 +1,6 @@
 ## Olá! Sou o José Eduardo :)
 
-- 🌱 atualmente estudando a linguagem c# e banco de dados...
+- 🌱 atualmente estudando Front end -> javascript, html5, css3...
 - <div>
   <a href="https://github.com/Ze-Edu">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ze-Edu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
