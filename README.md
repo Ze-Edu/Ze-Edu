@@ -9,7 +9,7 @@
 - <div>
   <a href="https://github.com/Ze-Edu">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ze-Edu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-Edu&layout=compact&langs_count=1&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-Edu&layout=compact&langs_count=5&theme=radical"/>
     
 </div>
   
@@ -25,10 +25,10 @@
   ##
   
   <div align="center" valign="top"><br>
-  <a height="45" href="https://www.instagram.com/zezin_018/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a height="45" href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a height="45" href = "mailto:joseeduardoqueiros5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a height="45" href="https://www.linkedin.com/jobs/collections/recommended/?currentJobId=2807588896"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/zezin_018/"><img height="45" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me"><img height="45" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joseeduardoqueiros5@gmail.com"><img height="45" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/jobs/collections/recommended/?currentJobId=2807588896"><img height="45" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div><br>
   
   ![Snake animation](https://github.com/Ze-Edu/Ze-Edu/blob/output/github-contribution-grid-snake.svg)
