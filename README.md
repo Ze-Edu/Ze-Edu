@@ -1,16 +1,18 @@
 ## Olá! Sou o José Eduardo :)
 
 - 🌱 atualmente estudando Front end -> javascript, html5, css3...
+- <h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<hr>
 - <div>
   <a href="https://github.com/Ze-Edu">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ze-Edu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-Edu&layout=compact&langs_count=9&theme=radical"/>
-  
-    <div align="center">
-  <a href="https://github.com/Ze-Edu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ze-Edu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-Edu&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+    
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ze-Edu&show_icons=true&theme=tokyonight)
+[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-Edu&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/Ze-Edu/)
     
 </div>
   
