@@ -9,7 +9,7 @@
 - <div>
   <a href="https://github.com/Ze-Edu">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ze-Edu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-Edu&layout=compact&langs_count=9&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-Edu&layout=compact&langs_count=12&theme=radical"/>
     
 </div>
   
