@@ -31,7 +31,7 @@
   <a href = "mailto:joseeduardoqueiros5@gmail.com"><img height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/jobs/collections/recommended/?currentJobId=2807588896"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-   <a href="https://ze-edu.github.io/Portfolio/"><img height="35" src="https://img.shields.io/badge/portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+   <a href="https://ze-edu.github.io/Portfolio/"><img height="35" src="	https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
   
   </div><br>
   
