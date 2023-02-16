@@ -31,10 +31,8 @@
   <a href = "mailto:joseeduardoqueiros5@gmail.com"><img height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/jobs/collections/recommended/?currentJobId=2807588896"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-   <a href="	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
-   
-   
-   
+   <a href="https://ze-edu.github.io/Portfolio/"><img height="35" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  
   </div><br>
   
   ![Snake animation](https://github.com/Ze-Edu/Ze-Edu/blob/output/github-contribution-grid-snake.svg)
