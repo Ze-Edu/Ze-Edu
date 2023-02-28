@@ -3,10 +3,12 @@
  <p align="start"><b>- 👨‍💻 Atualmente procurando emprego na área.<b></p>
  <p align="start"><b>- 📖 Estudando em cursos livres e Análise e dev de sistemas na Universidade São Judas Tadeu.<b></p>
  
- <h4 align="center">
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
+<div align="center">
+  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+</div>
+ 
 <hr>
+  <h4 align="center">
 - <div>
   <a href="https://github.com/Ze-Edu">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ze-Edu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
