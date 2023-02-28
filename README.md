@@ -13,7 +13,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-Edu&layout=compact&langs_count=16&theme=radical"/>
     
 </div>
-  <h4>
+  </h4>
   
  <div align="center" valign="top"><br>
   <img align="center" alt="Ze-Js" height="41" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
