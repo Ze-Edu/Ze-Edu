@@ -7,14 +7,12 @@
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
  
 <hr>
-  <h4 align="center">
 - <div>
   <a href="https://github.com/Ze-Edu">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ze-Edu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-Edu&layout=compact&langs_count=16&theme=radical"/>
     
 </div>
-  </h4>
   
  <div align="center" valign="top"><br>
   <img align="center" alt="Ze-Js" height="41" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
