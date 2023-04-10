@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Sou o José Eduardo :) </h1>
 
- <p align="start"><b>- 👨‍💻 Atualmente procurando emprego na área.<b></p>
+ <p align="start"><b>- 👨‍💻 Atualmente procurando emprego na área de dev ou analista(Dev jr, estagiário etc).<b></p>
  <p align="start"><b>- 📖 Estudando em cursos livres da área(DEV de sistemas) e Análise e dev de sistemas na Universidade São Judas Tadeu.<b></p>
  <h4 align="center"> 
 
