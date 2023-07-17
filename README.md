@@ -29,10 +29,10 @@
   ##
   
   <div align="center" valign="top"><br>
-  <a href="https://www.instagram.com/zezin_018/"><img height="35" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me"><img height="35" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joseeduardoqueiros5@gmail.com"><img height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/jobs/collections/recommended/?currentJobId=2807588896"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/zezin_018/" target="_blank"><img height="35" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me"  target="_blank"><img height="35" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joseeduardoqueiros5@gmail.com" target="_blank"><img height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/jobs/collections/recommended/?currentJobId=2807588896"  target="_blank"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
    <a href="https://ze-edu.github.io/Portfolio/"><img height="35" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
   
