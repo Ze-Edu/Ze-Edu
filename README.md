@@ -37,6 +37,7 @@
    <a href="https://ze-edu.github.io/Portfolio/"><img height="35" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
   
 <br>
-  ![Snake animation](https://github.com/Ze-Edu/Ze-Edu/blob/output/github-contribution-grid-snake.svg)
+
+![Snake gif](https://github.com/Ze-Edu/Ze-Edu/blob/output/github-contribution-grid-snake.svg)
 
 </div>
