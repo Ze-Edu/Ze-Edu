@@ -1,7 +1,7 @@
-<h1 align="center"> Olá! Sou o José Eduardo :) </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+José+Eduardo;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- <p align="start"><b>- 👨‍💻 Atualmente procurando emprego na área de dev ou analista(Dev jr, estagiário etc).<b></p>
- <p align="start"><b>- 📖 Estudando em cursos livres da área(DEV de sistemas) e Análise e dev de sistemas na Universidade São Judas Tadeu.<b></p>
+ <p align="start" style="theme=radical"><b>- 👨‍💻 Currently looking for a job in the dev or analyst area (Dev jr, intern etc).<b></p>
+ <p align="start"><b>- 📖 Studying in free courses in the area (system developer) and Analysis and systems developer at Universidade São Judas Tadeu.<b></p>
  <h4 align="center"> 
 
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
@@ -34,10 +34,10 @@
   <a href = "mailto:joseeduardoqueiros5@gmail.com" target="_blank"><img height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/jobs/collections/recommended/?currentJobId=2807588896"  target="_blank"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-   <a href="https://ze-edu.github.io/Portfolio/"><img height="35" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
+   <a href="https://mzdevelopment.com.br/jose/"><img height="35" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
   
 <br>
 
-![Snake gif](https://github.com/Ze-Edu/Ze-Edu/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ze-Edu&bg_color=0d1117&theme=radical&point=f8c0d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
