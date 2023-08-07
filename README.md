@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+José+Eduardo;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  <p align="start" style="theme=radical"><b>- 👨‍💻 Currently looking for a job in the dev or analyst area (Dev jr, trainee etc).<b></p>
- <p align="start"><b>- 📖 Studying in free courses in the area (system developer) and Analysis and systems developer at Universidade São Judas Tadeu.<b></p>
+ <p align="start"><b>- 📖 Studying in free courses in the developer area and Analysis and systems developer at Universidade São Judas Tadeu.<b></p>
  <h4 align="center"> 
 
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
