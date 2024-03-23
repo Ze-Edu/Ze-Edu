@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+José+Eduardo;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- <p align="start" style="theme=radical"><b>- 👨‍💻 Currently looking for a job in the dev or analyst area (Dev jr, trainee etc).<b></p>
+ <p align="start" style="theme=radical"><b>- 👨‍💻 Currently working as a junior IT analyst at Hapvida Notredame Intermedica..<b></p>
  <p align="start"><b>- 📖 Studying in free courses in the developer area and Analysis and systems development at university São Judas Tadeu.<b></p>
  <h4 align="center"> 
 
