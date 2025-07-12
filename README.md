@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+José+Eduardo;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
- <p align="start" style="theme=radical"><b>- 👨‍💻 Currently working as a junior IT analyst at Hapvida Notredame Intermedica..<b></p>
- <p align="start"><b>- 📖 Studying in free courses in the developer area and Analysis and systems development at university São Judas Tadeu.<b></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=500&color=F7F7F7&width=435&lines=Hello%2C+my+name+is+Jos%C3%A9+Eduardo;I'm+21+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
+<p align="start" style="theme=radical"><b>👨‍💻 Currently working as a junior IT analyst at Hapvida Notredame Intermedica..<b></p>
+ <p align="start"><b>📖 Graduated in Analysis and Systems Development at São Judas Tadeu University.<b></p>
  <h4 align="center"> 
 
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
